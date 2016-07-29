@@ -1,0 +1,5 @@
+1.git clone https://github.com/oxfordyang2016/golang-websocket.git
+2.cd to this dir
+3.use go get to install "golang.org/x/net/websocket"
+4.launch two cmd,go run server.go and go run client.go------->ok
+5.if you  have issue,please tell me!!!!
